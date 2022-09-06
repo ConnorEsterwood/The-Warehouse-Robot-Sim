@@ -2,7 +2,7 @@
 
 The simulation files and UE4 project for a simulated virtual environment used in the publication of several of my papers. 
 
-:: Packages Required ::
+:: Packages Required For Use ::
 
 | Package/Asset Pack | License | Owned By |
 | --- | --- | --- |
@@ -17,9 +17,6 @@ The simulation files and UE4 project for a simulated virtual environment used in
 | simple-rubber-conveyor | CC Attribution | scailman |
 | VehicleVarietyPack | Marketplace Distribution Agreement | Switchboard Studios |
 
-
-
-b) In the ReadMe file, please indicate which packages etc. the user will need their own license to. For instance, users of this code will need their own license to the Unreal Engine etc. This is just to avoid the impression that we are including software/packages that we shouldn't be. 
 
 :: Commercial Use ::
 
