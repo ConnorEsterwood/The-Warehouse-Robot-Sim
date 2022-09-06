@@ -2,7 +2,7 @@
 
 The simulation files and UE4 project for a simulated virtual environment used in the publication of several of my papers. 
 
-:: Packages Required For Use ::
+## Packages Required For Use
 
 | Package/Asset Pack | License | Owned By |
 | --- | --- | --- |
@@ -18,6 +18,6 @@ The simulation files and UE4 project for a simulated virtual environment used in
 | VehicleVarietyPack | Marketplace Distribution Agreement | Switchboard Studios |
 
 
-:: Commercial Use ::
+## Commercial Use
 
 If you would like to use this code for commercial purposes, please contact cte<at>umich.edu.
