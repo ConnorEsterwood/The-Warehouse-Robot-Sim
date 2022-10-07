@@ -2,6 +2,13 @@
 
 The simulation files and UE4 project for a simulated virtual environment used in the publication of several of my papers. 
 
+Due to limitations on github you can access the files via dropbox here: 
+
+[UE5.00 Version](https://www.dropbox.com/t/ZBqOv869i415vQuh)
+[UE4.24 Version](https://www.dropbox.com/t/H4Cth98EV96Tsh8c)
+
+For passcode email: cte<at>umich.edu
+
 ## Packages Required For Use
 
 | Package/Asset Pack | License | Owned By |
