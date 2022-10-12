@@ -10,7 +10,7 @@ Due to limitations on github you can access the files via dropbox here:
 
 
 
-I also recommend checking out the more frequently updated version fo the documentation (WIP) [HERE](https://www.notion.so/The-Robot-Sim-Documentation-48a3e197d3784167b3a1de16c9e13135)
+I also recommend checking out the **more frequently updated version of the documentation** (WIP) [HERE](https://fuzzy-group-9b3.notion.site/The-Robot-Sim-Documentation-48a3e197d3784167b3a1de16c9e13135)
 
 
 
