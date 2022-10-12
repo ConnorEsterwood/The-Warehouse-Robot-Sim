@@ -8,7 +8,11 @@ Due to limitations on github you can access the files via dropbox here:
 
 [UE4.24 Version](https://www.dropbox.com/t/H4Cth98EV96Tsh8c)
 
-For passcode email: cte<at>umich.edu
+
+
+I also recommend checking out the more frequently updated version fo the documentation (WIP) [HERE](https://www.notion.so/The-Robot-Sim-Documentation-48a3e197d3784167b3a1de16c9e13135)
+
+
 
 ## Packages Required For Use
 
