@@ -6,6 +6,8 @@
 
 The simulation files and UE4 project for a simulated virtual environment used in the publication of the following work. 
 
+Here it is in action: https://youtu.be/2ZHG1Gu86AY
+
 If you use this simulation in your own published work please let us know so we can track impact and add you to the list of publications below. 
 
 ---
