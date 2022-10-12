@@ -1,4 +1,4 @@
-![Untitled]()
+![image](https://user-images.githubusercontent.com/38667845/195360783-e4a5b0c5-b949-4b54-8566-8fec7af1ddd0.png)
 
 > ☝ This is a very early build and release of this simulator environment and while it is able to run well enough it is certainly what I’d call in development.
 
@@ -70,7 +70,7 @@ In order to utilize this project file you’ll need the following packages from 
 
 # License and Use of Simulation Files
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff440a90-5211-4600-b93e-1cc6405ada62/Untitled.png)
+![image](https://user-images.githubusercontent.com/38667845/195360848-8e2044a8-4e1d-4667-b2e4-622739b6dd0a.png)
 
 This project is under a polyform non-commercial license and is copywritten by the regents of the University of Michigan. 
 
