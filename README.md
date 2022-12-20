@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/38667845/195360783-e4a5b0c5-b949-4b54-8566-8fec7af1ddd0.png)
+![image](Images/Group%207.png)
 
 > ☝ This is a very early build and release of this simulator environment and while it is able to run well enough it is certainly what I’d call in development.
 
