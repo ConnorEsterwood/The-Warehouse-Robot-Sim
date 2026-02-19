@@ -33,7 +33,7 @@ Due to some of the limitations with sharing and distributing UE projects I’ve 
 
 While this release uses an older version of the UE4 engine it is reliable and can be built using the local options in UE4.24 after that version building to HTML was depreciated and thus we use this slightly old version for our studies.
 
-[UE4.24 Version](https://www.dropbox.com/t/H4Cth98EV96Tsh8c)
+[UE4.24 Version](https://zenodo.org/records/16921226/files/The_Robot_Sim_UE4.23_2022.zip?download=1)
 
 **Content:**
 
@@ -46,7 +46,7 @@ While this release uses an older version of the UE4 engine it is reliable and ca
 
 This version of the project was brought into UE5 to leverage the new updates to the unreal engine but is not fully able to be built for HTML (online) deployment without some additional work. This should, however, work well locally and on regular computer interfaces. There are plans to try and figure out how to deploy it via HTML but right now they are on hold due to other projects. 
 
-[UE5 Version](https://www.dropbox.com/t/ZBqOv869i415vQuh)
+[UE5 Version](https://zenodo.org/records/16921226/files/The_Robot_Sim_UE5_2022.zip?download=1)
 
 **Content:**
 
